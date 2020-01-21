@@ -1,0 +1,4 @@
+id,question,choice1,choice2,answer,difficulty
+0,Which of the following is a hasty generalization?,Some people vote without seriously weighing the merits of the candidate.,People nowadays only vote with their emotions instead of their brains.,1,30
+1,Q1,More people believe in haunted houses than being mediums (communicating with the dead) therefore haunted houses are true.,Everything above is true because people believe it's true.,1,45
+2,Q2,"eople voted the least for actions taken on climate change, so fighting climate change is not important.","eople voted the least for actions taken on climate change, so fighting climate change is not important.",2,60
