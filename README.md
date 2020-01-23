@@ -1,4 +1,4 @@
-# prerequisites
+# Prerequisites
 - CATsim
 - Pandas
 - Numpy
