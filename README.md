@@ -1,1 +1,4 @@
-# fallacy
+# prerequisites
+- CATsim
+- Pandas
+- Numpy
